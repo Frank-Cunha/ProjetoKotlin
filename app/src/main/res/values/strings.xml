@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CatolicosFranciscano</string>
+    <string name="conhe_a_a_verdade">Conheça a verdade</string>
+    <string name="seja_bem_vindo_ao_nosso_grupo">Seja bem vindo ao nosso grupo</string>
+    <string name="contamos_com_sua_participacao">Contamos com sua participacao</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="qual_seu_nome">QUAL SEU NOME</string>
+    <string name="salvar">SALVAR</string>
+    <string name="salvar_nome">SALVAR NOME</string>
+    <string name="Qual_seu_nome">Qual seu nome</string>
+    <string name="vamos_comecar">Vamos comecar</string>
+    <string name="ola">OLA!!!!!!!</string>
+</resources>
